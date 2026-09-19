@@ -1,6 +1,6 @@
 # ==========================================
 # PROYECTO FINAL: Sistema de Registro Académico
-# Asignatura: Programación Estructurada
+# Asignatura: Programación Estructurada 2026
 # Estudiante: Moises Haniel Gutierrez Salazar
 # ==========================================
 
