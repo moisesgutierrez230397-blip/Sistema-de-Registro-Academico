@@ -1,7 +1,7 @@
 # ==========================================
 # PROYECTO FINAL: Sistema de Registro Académico
 # Asignatura: Programación Estructurada
-# Estudiante: [Moises Haniel Gutierrez Salazar]
+# Estudiante: Moises Haniel Gutierrez Salazar
 # ==========================================
 
 # PASO 1: Estructura de Datos
